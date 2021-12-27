@@ -9,8 +9,9 @@
 
     <ImageView
         android:id="@+id/imageView2"
-        android:layout_width="175dp"
-        android:layout_height="312dp"
+        android:layout_width="189dp"
+        android:layout_height="353dp"
+        android:layout_gravity="center"
         tools:layout_editor_absoluteX="140dp"
         tools:layout_editor_absoluteY="122dp"
         tools:src="@tools:sample/avatars" />
@@ -37,7 +38,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="76dp"
+        android:layout_height="99dp"
         android:orientation="horizontal">
 
         <TextView
