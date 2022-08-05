@@ -1,2 +1,2 @@
 # spiderGen
-spiderGen 연습예제
+입사전 spiderGen 연습예제
