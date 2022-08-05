@@ -1,0 +1,10 @@
+{
+  "styleName": "pratice09App_global",
+  "items": {
+    "_global_style_": "\n._global_style_\n{\n\tfont-size: 12px;\n\tfont-family: courier;\n\ttext-size-adjust: none;\n\n}\n",
+    "global_resp": "\r\n.global_resp\r\n{\r\n\t/* global_resp 는 body 에 추가된 클래스 입니다. */\r\n\r\n}\r\n\r\n/*가로모드*/\r\n@media screen and (orientation: landscape)\r\n{\r\n\t.global_resp\r\n\t{\r\n\t}\r\n}\r\n\r\n/*ios*/\r\n@supports (-webkit-overflow-scrolling: touch)\r\n{\r\n}\r\n\r\n/*tablet*/\r\n@media screen and (min-width:641px)\r\n{\r\n}\r\n",
+    "listview_select": "\n\n.listview_select\n{\n\tbackground: -webkit-linear-gradient(top,  #F4F4F4 0%, #999999 100%);\n\tcolor: rgb(0, 0, 0);\n}",
+    "listview_def": "\n\n\n.listview_def\n{\n\tbackground: -webkit-linear-gradient(top,  #3D3D3D 0%, #252525 100%);\n}",
+    "listview_layout": ".listview_layout\n{\n\tborder-top: 2px solid #999;\n\tborder-bottom: 2px solid #999;\n}"
+  }
+}

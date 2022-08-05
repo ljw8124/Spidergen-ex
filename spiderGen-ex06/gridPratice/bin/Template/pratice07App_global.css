@@ -1,0 +1,51 @@
+
+._global_style_
+{
+	font-size: 12px !important;
+	font-family: courier !important;
+	text-size-adjust: none !important;
+
+}
+
+.global_resp
+{
+	/* global_resp 는 body 에 추가된 클래스 입니다. */
+
+}
+
+/*가로모드*/
+@media screen and (orientation: landscape)
+{
+	.global_resp
+	{
+	}
+}
+
+/*ios*/
+@supports (-webkit-overflow-scrolling: touch)
+{
+}
+
+/*tablet*/
+@media screen and (min-width:641px)
+{
+}
+
+.title_style
+{
+	background: -webkit-linear-gradient(top,  #3D3D3D 0%, #252525 100%) !important;
+}
+
+.select_grid
+{
+	background: blue !important;
+
+	color: rgb(255, 255, 255) !important;
+}
+
+.grid_header
+{
+	background: -webkit-linear-gradient(top,  #F4F4F4 0%, #999999 100%) !important;
+	color: rgb(0, 0, 0) !important;	
+}
+

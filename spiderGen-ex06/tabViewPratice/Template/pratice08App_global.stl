@@ -1,0 +1,8 @@
+{
+  "styleName": "pratice08App_global",
+  "items": {
+    "_global_style_": "\n._global_style_\n{\n\tfont-size: 12px;\n\tfont-family: courier;\n\ttext-size-adjust: none;\n\n}\n",
+    "global_resp": "\n.global_resp\n{\n\t/* global_resp 는 body 에 추가된 클래스 입니다. */\n\n}\n\n/*가로모드*/\n@media screen and (orientation: landscape)\n{\n\t.global_resp\n\t{\n\t}\n}\n\n/*ios*/\n@supports (-webkit-overflow-scrolling: touch)\n{\n}\n\n/*tablet*/\n@media screen and (min-width:641px)\n{\n}\n",
+    "select_style": "\n\n.select_style\n{\n\tbackground: -webkit-linear-gradient(top,  #F4F4F4 0%, #999999 100%);\n\tcolor: rgb(0, 0, 0);\n}"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "projectName": "pratice09",
+  "fileTree": {
+    "type": 0,
+    "name": "pratice09",
+    "children": [
+      {
+        "type": 1,
+        "name": "Framework",
+        "action": 1,
+        "children": [
+          {
+            "type": 11,
+            "name": "afc",
+            "relType": 7,
+            "path": "afc\\"
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "name": "Library",
+        "action": 2,
+        "children": []
+      },
+      {
+        "type": 1,
+        "name": "Template",
+        "action": 4,
+        "children": [
+          {
+            "type": 1,
+            "name": "Theme",
+            "children": []
+          },
+          {
+            "type": 4,
+            "name": "pratice09App_global.stl",
+            "relType": 1,
+            "path": "Template\\"
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "name": "Query",
+        "children": []
+      },
+      {
+        "type": 1,
+        "name": "Assets",
+        "children": [
+          {
+            "type": 1,
+            "name": "img",
+            "children": [
+              {
+                "type": 8,
+                "name": "door.png",
+                "relType": 1,
+                "path": "Assets\\"
+              },
+              {
+                "type": 8,
+                "name": "page_white_add.png",
+                "relType": 1,
+                "path": "Assets\\"
+              },
+              {
+                "type": 8,
+                "name": "page_white_copy.png",
+                "relType": 1,
+                "path": "Assets\\"
+              },
+              {
+                "type": 8,
+                "name": "page_white_delete.png",
+                "relType": 1,
+                "path": "Assets\\"
+              },
+              {
+                "type": 8,
+                "name": "page_white_edit.png",
+                "relType": 1,
+                "path": "Assets\\"
+              },
+              {
+                "type": 8,
+                "name": "page_white_paste.png",
+                "relType": 1,
+                "path": "Assets\\"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "name": "Source",
+        "children": [
+          {
+            "type": 2,
+            "name": "pratice09App.cls",
+            "relType": 1,
+            "path": "Source\\"
+          },
+          {
+            "type": 1,
+            "name": "Views",
+            "children": [
+              {
+                "type": 2,
+                "name": "MainView.cls",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 3,
+                "name": "MainView.lay",
+                "relType": 1,
+                "path": "Source\\"
+              }
+            ]
+          },
+          {
+            "type": 1,
+            "name": "Items",
+            "children": [
+              {
+                "type": 2,
+                "name": "ListItemView.cls",
+                "action": 5,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 3,
+                "name": "ListItemView.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "version": "3.2.7"
+}
