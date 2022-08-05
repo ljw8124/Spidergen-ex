@@ -1,0 +1,8 @@
+{
+  "styleName": "common",
+  "items": {
+    "edit_here": "\n.edit_here\n{\n\t/* TODO:edit here */\n\n}\n",
+    "fsize20px": ".fsize20px\n{\n\tfont-size: 20px;\n}\n\n",
+    "fsize16px": ".fsize16px\n{\n\tfont-size: 16px;\n}\n\n"
+  }
+}

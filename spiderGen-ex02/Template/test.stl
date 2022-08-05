@@ -1,0 +1,10 @@
+{
+  "styleName": "test",
+  "items": {
+    "edit_here": "\n.edit_here\n{\n\t/* TODO:edit here */\n\n}\n",
+    "bg01": ".bg01\n{\n\tbackground-color: rgb(191, 191, 246);\n\tfont-size: 20px;\n\tcolor: rgb(255, 255, 0);\n\tfont-weight: bold;\n\tborder-color: rgb(255, 0, 0);\n\tborder-width: 1px;\n\tborder-style: solid;\n\tborder-radius: 10px;\n\tbox-shadow: rgb(255, 255, 0) 2px 2px 1px 1px;\n}\n\n",
+    "btn_over": ".btn_over\n{\n\tbackground-color: rgb(0, 0, 255);\n\tcolor: rgb(255, 255, 255);\n\tfont-family: 궁서;\n}\n\n",
+    "mybtn": ".mybtn\n{\n\t\n\tbackground-color: rgb(102, 98, 98);\n}\n\n.mybtn-over\n{\n\t\n\tbackground-color: rgb(98,105,176);\n}\n\n.mybtn-down\n{\n\t\n\tbackground-color: #FFEB3B;\n}\n\n\n\n",
+    "bg02": ".bg02\n{\n\tbackground-color: rgb(251, 251, 153);\n\tcolor: rgb(0, 0, 0);\n}\n\n"
+  }
+}

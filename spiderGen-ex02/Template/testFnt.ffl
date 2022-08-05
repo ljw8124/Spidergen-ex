@@ -1,0 +1,7 @@
+{
+  "styleName": "testFnt",
+  "items": {
+    "edit_here": "\n@font-face {\n\tfont-family: 'edit_here' !no;\n\t\n\n}\n",
+    "GmarketSans-bold": "\n@font-face {\n\tfont-family: 'GmarketSans-bold';\n\t\n\tsrc: url('Assets/fonts/GmarketSansTTFBold.ttf');\n\t\n\n}\n"
+  }
+}
