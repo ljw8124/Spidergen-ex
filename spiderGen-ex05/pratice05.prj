@@ -1,0 +1,124 @@
+{
+  "projectName": "pratice05",
+  "fileTree": {
+    "type": 0,
+    "name": "pratice05",
+    "children": [
+      {
+        "type": 1,
+        "name": "Framework",
+        "action": 1,
+        "children": [
+          {
+            "type": 11,
+            "name": "afc",
+            "relType": 7,
+            "path": "afc\\"
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "name": "Library",
+        "action": 2,
+        "children": []
+      },
+      {
+        "type": 1,
+        "name": "Template",
+        "action": 4,
+        "children": [
+          {
+            "type": 1,
+            "name": "Theme",
+            "children": []
+          },
+          {
+            "type": 4,
+            "name": "pratice05App_global.stl",
+            "relType": 1,
+            "path": "Template\\"
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "name": "Bridge",
+        "children": [
+          {
+            "type": 1,
+            "name": "android",
+            "children": [
+              {
+                "type": 5,
+                "name": "cordova.js",
+                "action": 9,
+                "relType": 1,
+                "path": "Bridge\\android\\"
+              },
+              {
+                "type": 5,
+                "name": "cordova_plugins.js",
+                "action": 9,
+                "relType": 1,
+                "path": "Bridge\\android\\"
+              }
+            ]
+          },
+          {
+            "type": 1,
+            "name": "ios",
+            "children": []
+          },
+          {
+            "type": 1,
+            "name": "windows",
+            "children": [
+              {
+                "type": 5,
+                "name": "cordova.js",
+                "relType": 1,
+                "path": "Bridge\\windows\\"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "name": "Query",
+        "children": []
+      },
+      {
+        "type": 1,
+        "name": "Assets",
+        "children": []
+      },
+      {
+        "type": 1,
+        "name": "Source",
+        "children": [
+          {
+            "type": 2,
+            "name": "pratice05App.cls",
+            "relType": 1,
+            "path": "Source\\"
+          },
+          {
+            "type": 2,
+            "name": "MainView.cls",
+            "relType": 1,
+            "path": "Source\\"
+          },
+          {
+            "type": 3,
+            "name": "MainView.lay",
+            "relType": 1,
+            "path": "Source\\"
+          }
+        ]
+      }
+    ]
+  },
+  "version": "3.2.7"
+}
