@@ -1,0 +1,171 @@
+
+._global_style_
+{
+	font-size: 12px !important;
+	font-family: courier !important;
+	text-size-adjust: none !important;
+
+}
+
+.global_resp
+{
+	/* global_resp 는 body 에 추가된 클래스 입니다. */
+
+}
+
+/*가로모드*/
+@media screen and (orientation: landscape)
+{
+	.global_resp
+	{
+	}
+}
+
+/*ios*/
+@supports (-webkit-overflow-scrolling: touch)
+{
+}
+
+/*tablet*/
+@media screen and (min-width:641px)
+{
+}
+
+.nav_btn
+{
+	font-size: 14px !important;
+	color: white !important;
+	background-color: rgb(0, 0, 0) !important;
+	font-weight: bold !important;
+	font-family: 나눔명조 !important;
+	
+	border-bottom-width: 2px !important;
+	border-bottom-style: solid !important;
+	border-bottom-color: black !important;
+}
+
+.nav_btn:hover
+{
+	font-size: 14px !important;
+	color: rgb(2, 191, 191) !important;
+	background-color: rgb(0, 0, 0) !important;
+	font-weight: bold !important;
+	font-family: 나눔명조 !important;
+	
+	border-bottom-width: 2px !important;
+	border-bottom-style: solid !important;
+	border-bottom-color: rgb(2, 191, 191) !important;
+}
+
+.nav_btn:focus
+{
+	font-size: 14px !important;
+	color: rgb(2, 191, 191) !important;
+	background-color: rgb(0, 0, 0) !important;
+	font-weight: bold !important;
+	font-family: 나눔명조 !important;
+	
+	border-bottom-width: 2px !important;
+	border-bottom-style: solid !important;
+	border-bottom-color: rgb(2, 191, 191) !important;
+}
+
+.lbl_footer
+{
+	
+	color: rgb(136, 136, 136) !important;
+	font-size: 14px !important;
+	
+	font-family: 나눔명조 !important;
+}
+
+.main_page
+{
+	
+	color: rgb(255, 255, 255) !important;
+	font-size: 70px !important;
+	font-family: Montserrant-Medium !important;
+	font-weight: bold !important;
+	letter-spacing: -5px
+}
+
+.main_page
+{
+	
+	color: rgb(255, 255, 255) !important;
+	font-family: Montserrant-Medium !important;
+	font-weight: bold !important;
+	letter-spacing: -5px
+}
+
+.basic_font
+{
+	
+	color: rgb(255, 255, 255) !important;
+	background-color: rgba(0, 0, 0, 0) !important;
+	font-size: 14px !important;
+	font-family: 나눔명조 !important;
+}
+
+.downBtn
+{
+	
+	font-family: 나눔명조 !important;	
+}
+
+.downBtn:hover
+{
+	
+	font-family: 나눔명조 !important;
+	background-color: rgba(205, 205, 205, 0.45) !important;
+	
+}
+
+.Btn_outline_none
+{
+	outline: none !important;
+	
+}
+
+.Btn_outline_none:focus
+{
+	outline: none !important;
+}
+
+.SubView2_font
+{
+	font-size: 16px !important;
+	font-family: 나눔명조 !important;
+	color: rgb(119, 119, 119) !important;
+}
+
+.SubView2_font:hover
+{
+	font-size: 16px !important;
+	font-family: 나눔명조 !important;
+	color: rgb(2, 191, 191) !important;
+}
+
+.grid_click_none
+{
+	background: none !important;
+}
+
+.grid_click_none:click
+{
+	background: none !important;
+}
+
+.clicked
+{
+	font-size: 14px !important;
+	color: rgb(2, 191, 191) !important;
+	background-color: rgb(0, 0, 0) !important;
+	font-weight: bold !important;
+	font-family: 나눔명조 !important;
+	
+	border-bottom-width: 1px !important;
+	border-bottom-style: solid !important;
+	border-bottom-color: rgb(2, 191, 191) !important;
+}
+

@@ -1,0 +1,160 @@
+<div data-base="AView" data-class="SubView1" class="AView-Style" style="left: 0px; top: 0px; height: 3510px; background-color: rgb(255, 255, 255); position: absolute; overflow: visible; z-index: 0; backface-visibility: hidden; width: 100%;" data-class-map="{&quot;afc&quot;:[&quot;AView&quot;,&quot;AFlexLayout&quot;,&quot;ALabel&quot;,&quot;AButton&quot;,&quot;ATextBox&quot;,&quot;AImage&quot;,&quot;ASlideView&quot;]}" data-browser-height="3520" data-max-abutton="1" id="SubView1--SubView1" data-browser-width="2960">
+    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 530px; position: relative; left: 0px; top: 0px; background-image: url(&quot;Assets/images/main_visual.jpg&quot;); background-repeat: no-repeat; flex-flow: row nowrap; background-size: 100%; margin-left: 0px; place-content: flex-start center; align-items: stretch; min-width: 1400px;" data-background-option="custom">
+        <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: center;" class="">
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 1300px; height: 370px; position: relative; left: 50px; top: 0px; background-color: rgba(205, 205, 205, 0); margin-top: 50px; display: block; text-align: left; vertical-align: baseline; padding-left: 0px; margin-left: auto; margin-right: auto;">
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 897px; height: auto; position: absolute; display: inline; letter-spacing: 0px; margin-left: 0px; margin-top: 0px; margin-right: 0px; word-break: normal; text-align: left; left: 0px; top: 0px; font-family: 나눔명조; font-size: 77px; color: rgb(255, 255, 255); font-weight: bold;" data-style="" data-pre="true">
+                    <pre>One Source Multi-Use</pre>
+                </label>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 66.4545%; height: auto; position: absolute; left: 0px; top: 90px; display: inline; margin-left: 0px; margin-top: 0px; word-break: normal; font-size: 55px; font-family: 나눔명조; color: rgb(255, 255, 255); letter-spacing: -3px; font-weight: bold;" data-style="" data-pre="true">
+                    <pre>쉽고 빠른 통합 플랫폼 개발 솔루션</pre>
+                </label>
+                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 560px; height: 90px; position: absolute; margin-left: -2.00002px; margin-top: -10px; background-color: rgba(205, 205, 205, 0); top: 270px; left: 20px; border-width: 1px; border-radius: 8px; border-color: rgb(255, 255, 255);">
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 41.94px; height: 36.17px; position: absolute; left: 16.64px; top: 25.25px; background-image: url(&quot;Assets/images/ic_download_01.png&quot;); background-size: contain; background-repeat: no-repeat;" data-background-option="fit"></label>
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: absolute; left: 58.06px; top: 22.58px; color: rgb(255, 255, 255); font-family: 나눔명조; font-size: 16px;">스파이더젠</label>
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: absolute; left: 58.06px; top: 46.33px; color: rgb(255, 255, 255); font-family: 나눔명조; font-size: 16px;">쉽고빠른 스파이더젠을 지금 사용해 보세요.</label>
+                    <button data-base="AButton" data-class="AButton" class="AButton-Style downBtn Btn_outline_none" style="width: 121.94px; height: 39px; position: absolute; left: 410px; top: 23.83px; background-color: rgba(255, 255, 255, 0); color: rgb(255, 255, 255); border-color: rgb(255, 255, 255); border-width: 1px; border-style: solid; border-radius: 4px; font-family: 나눔명조; font-size: 18px;" data-style="downBtn Btn_outline_none">
+                        <img src="Assets/images/ic_download_02.png" style="margin: 0px 3px 3px;">다운로드
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div data-base="AFlexLayout" data-class="4box layout" class="AFlexLayout-Style" style="width: 100%; height: 200px; position: absolute; left: 0px; top: 530px; justify-content: center; border-bottom: 1px solid rgb(205, 205, 205); background-color: rgb(255, 255, 255); min-width: 1400px;">
+        <div style="position: relative; box-sizing: border-box;" class="">
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 300px; position: relative; left: 0px; top: 0px; background-color: rgb(255, 255, 255); border-left-width: 0px; border-left-color: rgb(51, 51, 51); border-right: 1px solid rgb(217, 217, 217); margin-top: 30px; margin-bottom: 30px; height: 140px;">
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: absolute; left: 40px; top: 30px; font-size: 25px; font-weight: bold; font-family: 나눔명조;">시작하기</label>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 63px; height: 51px; position: absolute; left: 210px; top: 34.27px; background-image: url(&quot;Assets/images/ic_documents_01.png&quot;); background-size: contain; background-repeat: no-repeat;" data-background-option="fit"></label>
+                <pre data-base="ATextBox" data-class="ATextBox" class="ATextBox-Style" style="width: 207px; height: auto; position: absolute; left: 40px; top: 80px; font-family: 나눔명조; font-size: 16px; font-style: inherit; color: rgb(89, 89, 89);">쉽고 빠르게                   스파이더젠을 시작해보세요.
+</pre>
+            </div>
+        </div>
+        <div style="position: relative; box-sizing: border-box;" class="">
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 300px; position: relative; left: 0px; top: 0px; background-color: rgb(255, 255, 255); border-right: 1px solid rgb(205, 205, 205); margin-top: 30px; margin-bottom: 30px; height: 140px;">
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: absolute; left: 40px; top: 30px; font-size: 25px; font-weight: bold; font-family: 나눔명조;">가이드</label>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 50px; height: 51px; position: absolute; left: 216.25px; top: 31.77px; background-image: url(&quot;Assets/images/ic_documents_05.png&quot;); background-size: contain; background-repeat: no-repeat;" data-background-option="fit"></label>
+                <pre data-base="ATextBox" data-class="ATextBox" class="ATextBox-Style" style="width: 207px; height: auto; position: absolute; left: 40px; top: 80px; font-family: 나눔명조; font-size: 16px; font-style: inherit; color: rgb(89, 89, 89);">스파이더젠의 다양하고     편리한 기능을 익혀보세요.
+</pre>
+            </div>
+        </div>
+        <div style="position: relative; box-sizing: border-box;">
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 300px; position: relative; left: 0px; top: 0px; background-color: rgb(255, 255, 255); border-right: 1px solid rgb(205, 205, 205); margin-top: 30px; margin-bottom: 30px; height: 140px;">
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: absolute; left: 40px; top: 30px; font-size: 25px; font-weight: bold; font-family: 나눔명조;">API</label>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 63px; height: 51px; position: absolute; left: 225px; top: 36.77px; background-image: url(&quot;Assets/images/ic_documents_06.png&quot;); background-size: contain; background-repeat: no-repeat;" data-background-option="fit"></label>
+                <pre data-base="ATextBox" data-class="ATextBox" class="ATextBox-Style" style="width: 200px; height: auto; position: absolute; left: 40px; top: 80px; font-family: 나눔명조; font-size: 16px; font-style: inherit; color: rgb(89, 89, 89);">파워풀한 통합 플랫폼      개발 솔루션을 확인하세요.
+</pre>
+            </div>
+        </div>
+        <div style="position: relative; box-sizing: border-box;">
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 300px; position: relative; left: 0px; top: 0px; background-color: rgb(255, 255, 255); margin-top: 30px; margin-bottom: 30px; height: 140px;">
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: absolute; left: 40px; top: 30px; font-size: 25px; font-weight: bold; font-family: 나눔명조;">공지사항</label>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 63px; height: 51px; position: absolute; left: 203.75px; top: 34.27px; background-image: url(&quot;Assets/images/ic_documents_02.png&quot;); background-size: contain; background-repeat: no-repeat;" data-background-option="fit"></label>
+                <pre data-base="ATextBox" data-class="ATextBox" class="ATextBox-Style" style="width: 207px; height: auto; position: absolute; left: 40px; top: 80px; font-family: 나눔명조; font-size: 16px; font-style: inherit; color: rgb(89, 89, 89);">스파이더젠의                 새로운 정보를 확인하세요.
+</pre>
+            </div>
+        </div>
+    </div>
+    <div data-base="AFlexLayout" data-class="middle layout" class="AFlexLayout-Style" style="width: 100%; height: 1014px; position: absolute; min-width: 1400px; left: 0px; top: 730px; flex-direction: column; background-color: rgb(255, 255, 255);">
+        <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;" class="">
+            <div data-base="AView" data-class="AView" class="AView-Style" style="height: 280px; position: relative; left: 0px; top: 0px; width: 1200px; background-color: rgb(255, 255, 255); margin: 100px auto 0px; border-width: 0px;">
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: absolute; left: 17px; top: 30px; font-family: 나눔명조; font-size: 34px; font-weight: bold;">진보된 방식의 모바일 개발환경 구축</label>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: absolute; left: 17px; top: 90px; color: rgb(2, 191, 191); font-size: 26px; font-family: 나눔명조;">One Source Multi-Use</label>
+                <pre data-base="ATextBox" data-class="ATextBox" class="ATextBox-Style" style="width: 723px; height: 69px; position: absolute; left: 17px; top: 141px; font-size: 16px; font-family: 나눔명조; color: rgb(89, 89, 89);">스파이더젠은 하나의 UI 개발작업으로 다양한 OS와 해상도에 대응할 수 있어 별도의 개발공수가
+필요하지 않습니다. 때문에 새롭게 생겨나는 OS에 대한 대처와 다양한 기기로의 확장성 및 융합성이 매우 뛰어나고 용이합니다. (TV,태블릿,카메라,PC등 크로스 카테고리 컨버전스</pre>
+                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 320px; height: 275px; position: absolute; left: 800px; top: 0px;" src="Assets/images/img_main_01.png">
+            </div>
+        </div>
+        <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;" class="">
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 1200px; height: 350px; position: relative; left: 0px; top: 0px; margin-top: 0px; background-color: rgb(255, 255, 255); margin-left: auto; margin-right: auto; border-width: 0px;">
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: absolute; left: 477px; top: 70px; font-family: 나눔명조; font-size: 34px; font-weight: bold;">컴포넌트 동적 로딩 시스템</label>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: absolute; left: 477px; top: 140px; color: rgb(2, 191, 191); font-size: 26px; font-family: 나눔명조;">More Faster Loading System</label>
+                <pre data-base="ATextBox" data-class="ATextBox" class="ATextBox-Style" style="width: 723px; height: 69px; position: absolute; left: 477px; top: 191px; font-size: 16px; font-family: 나눔명조; color: rgb(89, 89, 89);">스파이더젠에서는 Application의 빠른 구동과 실행을 위해 Application 구덩 시점이 아닌 컴포넌트가 실제 사용되는 최초 시점에 동적으로 로딩되어 보다 빠른 Application 실행환경을 제공합니다. 또한 프로젝트에 필요한 framework만 추가하므로 산출물의 경량화와 빠른 프로그램의 로딩 속도를       제공합니다.</pre>
+                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 305px; height: 337px; position: absolute; left: 100px; top: 10px;" src="Assets/images/img_main_02.png">
+            </div>
+        </div>
+    </div>
+    <div data-base="AFlexLayout" data-class="Easy&amp;Powerful Development Tool" class="AFlexLayout-Style" style="width: 100%; height: 760px; position: absolute; left: 0px; top: 1744px; flex-direction: column; min-width: 1300px;">
+        <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: auto; align-self: center;" class="">
+            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 34px; font-family: 나눔명조; font-weight: bold; color: rgb(17, 17, 17);">Easy &amp; Powerful Development Tool</label>
+        </div>
+        <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: auto; align-self: center;">
+            <pre data-base="ATextBox" data-class="ATextBox" class="ATextBox-Style" style="width: 100%; height: auto; position: relative; left: 0px; top: 0px; margin-top: 20px; font-size: 17px; font-family: 나눔명조; margin-bottom: 80px; color: rgb(89, 89, 89);">쉽고 강력한 스파이더젠은 다양한 컴포넌트와 편리한 에디터를 통해 편리한 운영관리와 유지보수 그리고 안정적인 개발 환경을 제공합니다.</pre>
+        </div>
+        <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: auto; align-self: center;">
+            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 1200px; height: 100%; position: relative; left: 0px; top: 0px; padding: 0px; margin-left: 0px; margin-top: 0px;">
+                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: stretch;" class="">
+                    <div data-base="AView" data-class="tool1" class="AView-Style" style="height: 450px; position: static; left: 0px; top: 0px; background-color: rgb(255, 255, 255); border-width: 1px; border-color: rgb(205, 205, 205); margin-top: 0px; width: 380px;">
+                        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; position: relative; left: 0px; top: 0px; height: 45%; background-color: rgb(238, 238, 238); margin-top: 0px; margin-left: 0px;">
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 216px; height: 168.703px; position: absolute; left: calc(50% - 108px); top: calc(50% - 84px); display: block; background-image: url(&quot;Assets/images/img_main_03.png&quot;); background-size: contain; text-align: center; word-break: break-all; background-repeat: no-repeat;" data-background-option="fit" data-center-y="true" data-center-x="true"></label>
+                        </div>
+                        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 55%; position: relative; left: 0px; top: 0px; background-color: rgb(255, 255, 255); border-width: 1px 0px 0px; border-color: rgb(205, 205, 205);">
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: absolute; left: 20px; top: 20px; font-size: 16px; font-family: 나눔명조; font-weight: bold;">WYSIWYG 에디터</label>
+                            <pre data-base="ATextBox" data-class="ATextBox" class="ATextBox-Style" style="width: 320px; height: 170px; position: absolute; left: 20px; top: 60px; font-size: 16px; color: rgb(89, 89, 89); font-family: 나눔명조;">스파이더젠은 쉽고 편리한 개발을 위해
+위지윅방식의 레이아웃 개발기능을
+제공합니다.따라서 개발 생산성이 매우
+뛰어나며 MVC 패턴의 개발 방식으로 뷰와
+컨트롤러, 모델 객체가 분리되어 개발
+관리되므로 유지보수 및 운영관리가 매우
+편리합니다.</pre>
+                        </div>
+                    </div>
+                </div>
+                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: stretch;">
+                    <div data-base="AView" data-class="tool2" class="AView-Style" style="height: 450px; position: relative; background-color: rgb(255, 255, 255); border-width: 1px; border-color: rgb(205, 205, 205); margin-top: 0px; width: 380px; left: 0px; top: 0px;">
+                        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; position: relative; left: 0px; top: 0px; height: 45%; background-color: rgb(238, 238, 238); margin-top: 0px; margin-left: 0px;">
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 160px; height: 160px; position: absolute; left: 20px; top: calc(50% - 80px); display: block; background-image: url(&quot;Assets/images/img_main_04.png&quot;); background-size: contain; text-align: center; word-break: break-all; background-repeat: no-repeat;" data-background-option="fit" data-center-y="true"></label>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 160px; height: 160px; position: absolute; top: calc(50% - 80px); background-image: url(&quot;Assets/images/img_main_05.png&quot;); background-repeat: no-repeat; background-size: contain; right: 20px;" data-background-option="fit" data-center-y="true"></label>
+                        </div>
+                        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 55%; position: relative; left: 0px; top: 0px; background-color: rgb(255, 255, 255); border-width: 1px 0px 0px; border-color: rgb(205, 205, 205);">
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: absolute; left: 20px; top: 20px; font-size: 16px; font-family: 나눔명조; font-weight: bold;">전문화된 증권전용 컴포넌트</label>
+                            <pre data-base="ATextBox" data-class="ATextBox" class="ATextBox-Style" style="width: 360px; height: 170px; position: absolute; left: 20px; top: 60px; font-size: 16px; color: rgb(89, 89, 89); font-family: 나눔명조;">스파이더젠은 금융 및 증권 프로그램에
+최적화된 전문 Stock Framework를
+제공합니다.특히 본 프레임워크는 본사가 그간
+다수의 프로젝트 개발 경험과 축적된 노하우를
+바탕으로 개발하였고 해당 프로젝트들에서
+대부분 사용되어 그 성능 및 안정성이 검증된
+프레임워크입니다.</pre>
+                        </div>
+                    </div>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <div data-base="AView" data-class="tool3" class="AView-Style" style="width: 380px; height: 450px; position: relative; margin-top: 0px; background-color: rgb(255, 255, 255); border-width: 1px; border-color: rgb(205, 205, 205); left: 0px; top: 0px;">
+                        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; position: relative; left: 0px; top: 0px; height: 45%; background-color: rgb(238, 238, 238); margin-top: 0px; margin-left: 0px;">
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 201.5px; height: 170px; position: absolute; left: calc(50% - 100.5px); top: calc(50% - 85px); display: block; background-image: url(&quot;Assets/images/img_main_06.png&quot;); text-align: center; word-break: break-all; background-repeat: no-repeat; background-size: 100% 100%;" data-background-option="stretch" data-center-y="true" data-center-x="true"></label>
+                        </div>
+                        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; position: relative; left: 0px; top: 0px; background-color: rgb(255, 255, 255); border-width: 1px 0px 0px; border-color: rgb(205, 205, 205); height: 55%;">
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: absolute; left: 20px; top: 20px; font-size: 16px; font-family: 나눔명조; font-weight: bold;">충돌방지 형상관리 시스템</label>
+                            <pre data-base="ATextBox" data-class="ATextBox" class="ATextBox-Style" style="width: 320px; height: 170px; position: absolute; left: 20px; top: 60px; font-size: 16px; color: rgb(89, 89, 89); font-family: 나눔명조;">스파이더젠은 프로젝트의 자원관리를 위해
+SVN 모듈을 임베디드(embedded)한 다양한
+기능의 형상관리 시스템을 제공합니다.개발
+소스의 Lock 기능을 기반으로 한 충돌방지
+기능을 제공하여 원활하고 안정적인 개발
+환경을 제공합니다.</pre>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div data-base="AView" data-class="SlideView" class="AView-Style" style="width: 100%; height: 546px; position: absolute; left: 0px; top: 2504px; background-color: rgb(255, 255, 255); border-width: 0px; min-width: 1400px;">
+        <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 1400px; height: 90%; position: absolute; left: calc(50% - 699px); top: calc(50% - 244.5px); align-items: center;" data-background-option="custom" data-center-x="true" data-center-y="true">
+            <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: auto; align-self: auto;">
+                <button data-base="AButton" data-class="AButton" class="AButton-Style Btn_outline_none" style="width: auto; height: 100%; position: relative; left: 0px; top: 0px; padding-right: 50px;" data-listener-click="SubView1:onPrevBtnClick" data-style=" Btn_outline_none">
+                    <img src="Assets/images/ic_arrow_left03.png" style="">
+                </button>
+            </div>
+            <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: auto; align-self: center;">
+                <div data-base="ASlideView" data-class="slideView" class="ASlideView-Style" style="height: 450px; z-index: 0; white-space: nowrap; position: relative; left: 0px; top: 0px; margin-top: 0px; width: 1250px; margin-left: 0px; background-color: rgb(255, 255, 255);" id="SubView1--slideView"></div>
+            </div>
+            <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: auto; align-self: auto;">
+                <button data-base="AButton" data-class="AButton" class="AButton-Style Btn_outline_none" style="width: auto; height: 100%; position: relative; left: 0px; top: 0px; margin-left: 0px; padding-left: 50px;" data-listener-click="SubView1:onNextBtnClick" data-style=" Btn_outline_none">
+                    <img src="Assets/images/ic_arrow_right03.png">
+                </button>
+            </div>
+        </div>
+    </div>
+    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 460px; position: absolute; left: 0px; background-image: url(&quot;Assets/images/img_main_16.jpg&quot;); background-size: 100% 100%; font-size: 20px; color: rgb(255, 255, 255); min-width: 1400px; top: 3050px;" data-background-option="stretch">
+        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: calc(50% - 346px); top: 57px; font-size: 35px; font-weight: bold; font-family: 나눔명조; margin-left: auto; margin-right: auto; margin-top: 50px;" data-center-x="true">쉽고 강력한 통합 플랫폼 편집기 스파이더젠</label>
+        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: absolute; left: calc(50% - 287px); top: 180px; font-size: 20px; font-family: 나눔명조; font-weight: bold;" data-center-x="true">쉽고 빠른 통합 플랫폼 편집기인 스파이더젠을 지금 만나보세요.</label>
+        <button data-base="AButton" data-class="AButton" class="AButton-Style Btn_outline_none" style="width: 234px; height: 63px; position: absolute; left: calc(50% - 117px); top: 267px; background-color: rgb(0, 0, 0); color: rgb(255, 255, 255); font-family: 나눔명조; border-radius: 8px;" data-center-x="true" data-style=" Btn_outline_none">스파이더젠 다운로드</button>
+    </div>
+</div>

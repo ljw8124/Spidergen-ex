@@ -1,0 +1,21 @@
+{
+	"name": "login001",
+	"desc": "쿼리 설명",
+	"queryType": "쿼리 타입",
+	"input": {
+		"InBlock1": {
+			"format": [
+				["입력아이디","input_id","","","char",0,"0"],
+				["입력패스워드","input_pw","","","char",0,"0"]
+			]
+		}
+	},
+	"output": {
+		"OutBlock1": {
+			"format": [
+				["서버아이디","output_id","","","char",0,"0"],
+				["서버패스워드","output_pw","","","char",0,"0"]
+			]
+		}
+	}
+}

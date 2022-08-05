@@ -1,0 +1,607 @@
+{
+  "projectName": "homepage",
+  "fileTree": {
+    "type": 0,
+    "name": "homepage",
+    "children": [
+      {
+        "type": 1,
+        "name": "Framework",
+        "action": 1,
+        "children": [
+          {
+            "type": 11,
+            "name": "afc",
+            "relType": 7,
+            "path": "afc\\"
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "name": "Library",
+        "action": 2,
+        "children": []
+      },
+      {
+        "type": 1,
+        "name": "Template",
+        "action": 4,
+        "children": [
+          {
+            "type": 1,
+            "name": "Theme",
+            "children": []
+          },
+          {
+            "type": 4,
+            "name": "homepageApp_global.stl",
+            "relType": 1,
+            "path": "Template\\"
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "name": "Query",
+        "children": []
+      },
+      {
+        "type": 1,
+        "name": "Assets",
+        "children": [
+          {
+            "type": 1,
+            "name": "images",
+            "children": [
+              {
+                "type": 8,
+                "name": "asoo_logo.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "asoocolor.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "asoosoft.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "ic_documents_01.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "ic_documents_02.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "ic_documents_03.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "ic_documents_04.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "ic_documents_05.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "ic_documents_06.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "ic_documents_07.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "ic_download_01.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "ic_download_02.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "ic_home.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "ic_login.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "ic_password.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "ic_profile_50.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "ic_writing_01.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "img_company_01.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "img_company_02.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "img_company_03.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "img_company_04.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "img_company_05.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "img_company_06.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "img_company_07.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "img_company_08.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "img_company_09.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "img_company_10.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "img_company_11.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "img_company_12.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "img_company_13.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "img_documents.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "img_main_01.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "img_main_02.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "img_main_03.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "img_main_04.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "img_main_05.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "img_main_06.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "img_main_07.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "img_main_08.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "img_main_09.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "img_main_10.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "img_main_11.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "img_main_12.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "img_main_13.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "img_main_14.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "img_main_15.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "img_main_16.jpg",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "main_visual.jpg",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "main_visual_01.jpg",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "main_visual_02.jpg",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "spa_color.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "spidergen.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "spidergen_logo.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "ic_arrow_left03.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "ic_arrow_right03.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "ic_search.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "ic_close_03.png",
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 8,
+                "name": "기본프로필.webp",
+                "relType": 1,
+                "path": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "name": "Source",
+        "children": [
+          {
+            "type": 2,
+            "name": "homepageApp.cls",
+            "relType": 1,
+            "path": "Source\\"
+          },
+          {
+            "type": 2,
+            "name": "MainView.cls",
+            "relType": 1,
+            "path": "Source\\"
+          },
+          {
+            "type": 3,
+            "name": "MainView.lay",
+            "relType": 1,
+            "path": "Source\\"
+          },
+          {
+            "type": 1,
+            "name": "PageViews",
+            "children": [
+              {
+                "type": 2,
+                "name": "SubView1.cls",
+                "action": 5,
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 3,
+                "name": "SubView1.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 2,
+                "name": "SubView2.cls",
+                "action": 5,
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 3,
+                "name": "SubView2.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 2,
+                "name": "SubView3.cls",
+                "action": 5,
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 3,
+                "name": "SubView3.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 2,
+                "name": "SubView4.cls",
+                "action": 5,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 3,
+                "name": "SubView4.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 2,
+                "name": "SubView5.cls",
+                "action": 5,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 3,
+                "name": "SubView5.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 2,
+                "name": "EmptyView.cls",
+                "action": 5,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 3,
+                "name": "EmptyView.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 1,
+                "name": "SlideViews",
+                "children": [
+                  {
+                    "type": 2,
+                    "name": "SlideView1.cls",
+                    "action": 5,
+                    "relType": 1,
+                    "path": "Source\\"
+                  },
+                  {
+                    "type": 3,
+                    "name": "SlideView1.lay",
+                    "action": 6,
+                    "relType": 1,
+                    "path": "Source\\",
+                    "comment": ""
+                  },
+                  {
+                    "type": 2,
+                    "name": "SlideView2.cls",
+                    "action": 5,
+                    "relType": 1,
+                    "path": "Source\\",
+                    "comment": ""
+                  },
+                  {
+                    "type": 3,
+                    "name": "SlideView2.lay",
+                    "action": 6,
+                    "relType": 1,
+                    "path": "Source\\",
+                    "comment": ""
+                  },
+                  {
+                    "type": 2,
+                    "name": "SlideView3.cls",
+                    "action": 5,
+                    "relType": 1,
+                    "path": "Source\\",
+                    "comment": ""
+                  },
+                  {
+                    "type": 3,
+                    "name": "SlideView3.lay",
+                    "action": 6,
+                    "relType": 1,
+                    "path": "Source\\",
+                    "comment": ""
+                  }
+                ]
+              },
+              {
+                "type": 1,
+                "name": "ListViewItems",
+                "children": [
+                  {
+                    "type": 2,
+                    "name": "ListViewitem.cls",
+                    "action": 5,
+                    "relType": 1,
+                    "path": "Source\\",
+                    "comment": ""
+                  },
+                  {
+                    "type": 3,
+                    "name": "ListViewitem.lay",
+                    "action": 6,
+                    "relType": 1,
+                    "path": "Source\\",
+                    "comment": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "version": "3.2.8"
+}

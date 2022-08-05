@@ -1,0 +1,28 @@
+<div data-base="AView" data-class="TabView1" class="AView-Style" style="left: 0px; top: 0px; width: 100%; height: 100%; background-color: rgb(248, 248, 248); position: absolute; font-family: 나눔명조;" data-class-map="{&quot;afc&quot;:[&quot;AView&quot;,&quot;AFlexLayout&quot;,&quot;ALabel&quot;,&quot;AImage&quot;,&quot;AListView&quot;]}" data-browser-width="470">
+    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 100%; position: absolute; top: 0px; flex-direction: column; left: 0px; background-color: rgb(255, 255, 255);">
+        <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: auto; align-self: auto;" class="">
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; position: relative; left: 0px; top: 0px; height: 75px; background-color: rgb(255, 255, 255);">
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: absolute; left: 20px; top: 30px; font-size: 22px; font-weight: bold; font-family: 나눔명조;">친구</label>
+                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 90px; height: 42px; position: absolute; top: 27px; color: rgba(0, 0, 0, 0); right: 0px; margin-right: 40px;" src="Assets/images/친구창.png">
+            </div>
+        </div>
+        <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: auto; align-self: auto;">
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 90px; position: relative; left: 0px; top: 0px; margin-top: 0px; background-color: rgb(240, 240, 240);">
+                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="height: 58px; position: absolute; left: 20px; top: 17px; width: 60px; border-radius: 20px; border-style: solid; border-width: 0.5px; border-color: rgb(205, 205, 205);" name="프로필사진" id="TabView1--img" src="Assets/images/기본프로필.png">
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: absolute; left: 93px; top: 28px; color: rgb(0, 0, 0); font-family: 나눔명조; font-weight: bold; font-size: 13px;" name="이름" id="TabView1--name">철수</label>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: absolute; left: 93px; top: 48px; color: rgb(115, 115, 115); font-family: 나눔명조; font-size: 13px;" name="상태메시지" id="TabView1--content">더미데이터</label>
+            </div>
+        </div>
+        <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: auto; align-self: auto;">
+            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 20px; top: 0px; margin-left: 0px; margin-top: 10px; margin-bottom: 15px; background-color: rgba(142, 142, 142, 0); color: rgb(115, 115, 115);">친구 100</label>
+        </div>
+        <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+            <div data-base="AListView" data-class="AListView" class="AListView-Style" data-selectable="true" style="width: 100%; height: auto; position: relative; background-color: rgb(255, 255, 255); top: 0px; overflow: visible; margin-top: -15px; margin-left: 0px;" id="TabView1--friendList">
+                <div class="listview-row" style="height: 65px;"></div>
+                <div class="listview-row AListView-select" style="height: 65px;"></div>
+                <div class="listview-row" style="height: 65px;"></div>
+                <div class="listview-row" style="height: 65px;"></div>
+            </div>
+        </div>
+    </div>
+</div>

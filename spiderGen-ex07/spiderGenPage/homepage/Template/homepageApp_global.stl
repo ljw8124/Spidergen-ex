@@ -1,0 +1,17 @@
+{
+  "styleName": "homepageApp_global",
+  "items": {
+    "_global_style_": "\n._global_style_\n{\n\tfont-size: 12px;\n\tfont-family: courier;\n\ttext-size-adjust: none;\n\n}\n",
+    "global_resp": "\n.global_resp\n{\n\t/* global_resp 는 body 에 추가된 클래스 입니다. */\n\n}\n\n/*가로모드*/\n@media screen and (orientation: landscape)\n{\n\t.global_resp\n\t{\n\t}\n}\n\n/*ios*/\n@supports (-webkit-overflow-scrolling: touch)\n{\n}\n\n/*tablet*/\n@media screen and (min-width:641px)\n{\n}\n",
+    "nav_btn": ".nav_btn\n{\n\tfont-size: 14px;\n\tcolor: white;\n\tbackground-color: rgb(0, 0, 0);\n\tfont-weight: bold;\n\tfont-family: 나눔명조;\n\t\n\tborder-bottom-width: 2px;\n\tborder-bottom-style: solid;\n\tborder-bottom-color: black;\n}\n\n.nav_btn:hover\n{\n\tfont-size: 14px;\n\tcolor: rgb(2, 191, 191);\n\tbackground-color: rgb(0, 0, 0);\n\tfont-weight: bold;\n\tfont-family: 나눔명조;\n\t\n\tborder-bottom-width: 2px;\n\tborder-bottom-style: solid;\n\tborder-bottom-color: rgb(2, 191, 191);\n}\n\n.nav_btn:focus\n{\n\tfont-size: 14px;\n\tcolor: rgb(2, 191, 191);\n\tbackground-color: rgb(0, 0, 0);\n\tfont-weight: bold;\n\tfont-family: 나눔명조;\n\t\n\tborder-bottom-width: 2px;\n\tborder-bottom-style: solid;\n\tborder-bottom-color: rgb(2, 191, 191);\n}\n",
+    "lbl_footer": ".lbl_footer\n{\n\t\n\tcolor: rgb(136, 136, 136);\n\tfont-size: 14px;\n\t\n\tfont-family: 나눔명조;\n}\n\n",
+    "main_page": ".main_page\n{\n\t\n\tcolor: rgb(255, 255, 255);\n\tfont-size: 70px;\n\tfont-family: Montserrant-Medium;\n\tfont-weight: bold;\n\tletter-spacing: -5px\n}\n\n",
+    "main_page_70px": ".main_page\n{\n\t\n\tcolor: rgb(255, 255, 255);\n\tfont-family: Montserrant-Medium;\n\tfont-weight: bold;\n\tletter-spacing: -5px\n}\n\n",
+    "basic_font": ".basic_font\n{\n\t\n\tcolor: rgb(255, 255, 255);\n\tbackground-color: rgba(0, 0, 0, 0);\n\tfont-size: 14px;\n\tfont-family: 나눔명조;\n}\n\n",
+    "downBtn": ".downBtn\n{\n\t\n\tfont-family: 나눔명조;\t\n}\n\n.downBtn:hover\n{\n\t\n\tfont-family: 나눔명조;\n\tbackground-color: rgba(205, 205, 205, 0.45);\n\t\n}\n\n\n",
+    "Btn_outline_none": ".Btn_outline_none\n{\n\toutline: none;\n\t\n}\n\n.Btn_outline_none:focus\n{\n\toutline: none;\n}\n\n",
+    "SubView2_font": ".SubView2_font\n{\n\tfont-size: 16px;\n\tfont-family: 나눔명조;\n\tcolor: rgb(119, 119, 119);\n}\n\n.SubView2_font:hover\n{\n\tfont-size: 16px;\n\tfont-family: 나눔명조;\n\tcolor: rgb(2, 191, 191);\n}\n\n",
+    "grid_click_none": ".grid_click_none\n{\n\tbackground: none;\n}\n\n.grid_click_none:click\n{\n\tbackground: none;\n}\n\n\n",
+    "clickEvent": ".clicked\n{\n\tfont-size: 14px;\n\tcolor: rgb(2, 191, 191);\n\tbackground-color: rgb(0, 0, 0);\n\tfont-weight: bold;\n\tfont-family: 나눔명조;\n\t\n\tborder-bottom-width: 1px;\n\tborder-bottom-style: solid;\n\tborder-bottom-color: rgb(2, 191, 191);\n}\n\n"
+  }
+}

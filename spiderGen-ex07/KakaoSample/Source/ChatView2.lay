@@ -1,0 +1,6 @@
+<div data-base="AView" data-class="ChatView2" class="AView-Style" style="left: 0px; top: 0px; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0); position: absolute; display: block;" data-browser-width="430" data-browser-height="80" data-class-map="{&quot;afc&quot;:[&quot;AView&quot;,&quot;ATextBox&quot;,&quot;ALabel&quot;]}">
+    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 100%; position: absolute; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); margin-bottom: -15px;">
+        <pre data-base="ATextBox" data-class="ATextBox" class="ATextBox-Style 자동줄바꿈" style="width: auto; height: auto; position: absolute; top: 0px; white-space: normal; display: block; text-align: left; margin-left: 0px; background-color: rgb(250, 225, 0); padding: 5px 10px; border-radius: 5px; color: rgb(0, 0, 0); right: 20px; font-family: 나눔명조; margin-top: 10px; max-width: 250px;" data-style=" 자동줄바꿈" id="ChatView2--content">내용</pre>
+        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 10px; height: 10px; position: absolute; top: 14px; background-color: rgba(0, 0, 0, 0); border-left: 10px solid rgb(250, 225, 0); border-top-style: solid; border-right: 0px solid rgb(255, 255, 255); border-bottom-width: 10px; border-bottom-color: rgba(0, 0, 0, 0); right: 11px;"></label>
+    </div>
+</div>

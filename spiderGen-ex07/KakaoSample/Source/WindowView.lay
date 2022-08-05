@@ -1,0 +1,25 @@
+<div data-base="AView" data-class="WindowView" class="AView-Style" style="left: 0px; top: 0px; width: 100%; height: 100%; background-color: rgb(186, 195, 222); position: absolute; color: rgb(0, 0, 0); overflow: auto; z-index: 0; backface-visibility: hidden;" data-browser-height="620" data-class-map="{&quot;afc&quot;:[&quot;AView&quot;,&quot;AFlexLayout&quot;,&quot;AButton&quot;,&quot;AImage&quot;,&quot;ALabel&quot;,&quot;AListView&quot;,&quot;ATextField&quot;]}" data-browser-width="300">
+    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 100%; position: absolute; left: 0px; flex-direction: column; display: flex; overflow: auto; top: 0px;">
+        <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: auto; align-self: auto;">
+            <button data-base="AButton" data-class="AButton" class="AButton-Style btn_outlineNone" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; text-align: left; font-family: 나눔명조; font-size: 10px; color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0); padding-top: 3px; padding-left: 3px; margin-top: -1.99999px;" data-style=" btn_outlineNone" data-listener-click="WindowView:onToListBtnClick">&lt;목록으로</button>
+        </div>
+        <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: auto; align-self: auto;">
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 70px; position: relative; background-color: rgb(186, 195, 222); border-bottom: 1px solid rgb(171, 179, 202); left: 0px; top: 0px;">
+                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="height: 48px; position: absolute; left: 10px; top: 12px; width: 50px; border-radius: 20px; border-color: rgb(205, 205, 205);" name="프로필사진" id="WindowView--img" src="Assets/images/기본프로필.png">
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: absolute; left: 67px; top: 25px; color: rgb(0, 0, 0); font-family: 나눔명조; font-weight: normal; font-size: 15px;" name="이름" id="WindowView--name">채팅자</label>
+            </div>
+        </div>
+        <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;" class="">
+            <div data-base="AListView" data-class="AListView" class="AListView-Style" data-selectable="true" style="width: 100%; height: auto; position: relative; background-color: rgba(0, 0, 0, 0); left: 0px; top: 0px; overflow: auto;" id="WindowView--chatView">
+                <div class="listview-row" style="height: 60px;"></div>
+                <div class="listview-row AListView-select" style="height: 60px;"></div>
+                <div class="listview-row" style="height: 60px;"></div>
+                <div class="listview-row" style="height: 60px;"></div>
+            </div>
+        </div>
+    </div>
+    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 75px; position: absolute; background-color: rgb(255, 255, 255); min-height: 75px; bottom: 0px;">
+        <button data-base="AButton" data-class="AButton" class="AButton-Style btn_outlineNone" style="width: auto; height: 27.495px; position: absolute; top: 16px; padding: 3px 10px; background-color: rgb(250, 225, 0); color: rgb(180, 180, 180); border-radius: 3px; border-width: 1px; border-style: solid; border-color: rgb(235, 235, 235); right: 9px;" data-style=" btn_outlineNone" data-listener-click="WindowView:onMsgSendBtnClick">전송</button>
+        <input data-base="ATextField" data-class="ATextField" type="text" value="" class="ATextField-Style btn_outlineNone 자동줄바꿈" autocomplete="off" style="height: auto; position: absolute; left: 0px; top: 10px; margin-left: 10px; background-color: rgb(255, 255, 255); border-width: 1px; border-style: solid; border-color: rgba(0, 0, 0, 0); text-align: left; vertical-align: baseline; width: calc((100% - 0px) - 80px); padding-top: 10px; padding-bottom: 10px; overflow: visible; font-size: 14px; font-family: 나눔명조;" placeholder="메시지를 입력하세요" data-style=" btn_outlineNone 자동줄바꿈" data-sgap-width="1" id="WindowView--sendTextField">
+    </div>
+</div>
