@@ -1,0 +1,41 @@
+<div data-base="AView" data-class="TestFlexLayout" class="AView-Style" style="left: 0px; top: 0px; width: 630px; height: 620px; background-color: rgb(239, 239, 239); position: absolute; overflow: hidden;" data-class-map="{&quot;afc&quot;:[&quot;AView&quot;,&quot;AFlexLayout&quot;,&quot;AButton&quot;]}" data-browser-height="660" data-browser-width="670">
+    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: calc((100% - 0px) - 0px); height: 84px; position: absolute; left: 0px; top: 20px; flex-flow: row wrap; overflow: visible; place-content: flex-start; align-items: stretch;" data-sgap-width="1">
+        <div style="position: relative; box-sizing: border-box;">
+            <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 70px; height: 70px; position: relative; left: 0px; top: 0px; padding-right: 1px; margin-right: 10px; margin-bottom: 10px;">Button</button>
+        </div>
+        <div style="position: relative; box-sizing: border-box;">
+            <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 70px; height: 70px; position: relative; left: 0px; top: 0px; padding-right: 1px; margin-right: 10px; margin-top: -1px; margin-bottom: 10px;">Button</button>
+        </div>
+        <div style="position: relative; box-sizing: border-box;">
+            <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 70px; height: 70px; position: relative; left: 0px; top: 0px; padding-right: 1px; margin-right: 10px; margin-top: -1px; margin-bottom: 10px;">Button</button>
+        </div>
+        <div style="position: relative; box-sizing: border-box;">
+            <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 70px; height: 70px; position: relative; left: 0px; top: 0px; padding-right: 1px; margin-right: 10px; margin-top: -1px; margin-bottom: 10px;">Button</button>
+        </div>
+    </div>
+    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 90px; height: calc((100% - 0px) - 350px); position: absolute; bottom: 0px; right: 0px; flex-flow: column-reverse wrap; place-content: flex-start center; align-items: center; overflow: visible;" data-sgap-height="1">
+        <div style="position: relative; box-sizing: border-box;" class="">
+            <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 80px; height: 22px; position: relative; left: 0px; top: 0px;">Button</button>
+        </div>
+        <div style="position: relative; box-sizing: border-box;" class="">
+            <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 80px; height: 22px; position: relative; left: 0px; top: 0px;">Button</button>
+        </div>
+        <div style="position: relative; box-sizing: border-box;">
+            <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 80px; height: 22px; position: relative; left: 0px; top: 0px;">Button3</button>
+        </div>
+        <div style="position: relative; box-sizing: border-box;">
+            <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 80px; height: 22px; position: relative; left: 0px; top: 0px;">Button2</button>
+        </div>
+        <div style="position: relative; box-sizing: border-box;" class="">
+            <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 80px; height: 22px; position: relative; left: 0px; top: 0px; margin-top: 0px;">Button1</button>
+        </div>
+        <div style="position: relative; box-sizing: border-box;">
+            <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 80px; height: 22px; position: relative; left: 0px; top: 0px;">Button</button>
+        </div>
+    </div>
+    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: calc((100% - 60px) - 130px); height: calc((100% - 330px) - 60px); position: absolute; left: 60px; top: 330px; place-content: flex-start center; align-items: center;" data-sgap-width="1" data-sgap-height="1">
+        <div style="position: relative; box-sizing: border-box;">
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 140px; height: 80px; position: relative; left: 0px; top: 0px;"></div>
+        </div>
+    </div>
+</div>
