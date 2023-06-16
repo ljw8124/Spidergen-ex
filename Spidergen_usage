@@ -9,3 +9,21 @@ tabView 에서 data 를 받는 경우, this.owner.selectedTab.data 로 data 를 
 Spidergen 내부 컴포넌트에 이벤트 다시 호출하고 싶을 때, comp.reportEvnet('event 명', 'info', 'e');
 
 pivotGrid 에서는 데이터 삽입위해서 pivotGird.addRow(0, 0) 와 같이 파라미터를 두번 던져야함(헤더와 바디 느낌) 또한 setRow 할때에도, pivotGrid.setRow('index', '헤더데이터', '바디데이터') 형식으로 넣어야한다.
+
+dot 이미지와 줄바꿈 하는 코드! -> 
+.text_dot
+{
+	padding-left: 14px;
+}
+
+.text_dot::before
+{
+	content: "";
+	width: 4px;
+	height: 4px;
+	position: absolute;
+	top: 10px;
+	left: 5px;
+	background-color: #656A71;
+	border-radius: 2px;
+}
