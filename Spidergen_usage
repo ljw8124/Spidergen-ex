@@ -27,3 +27,8 @@ dot 이미지와 줄바꿈 하는 코드! ->
 	background-color: #656A71;
 	border-radius: 2px;
 }
+
+
+* 스파이더젠 local webserver 프론트 소스 들어가야할 경로
+
+Spidergen경로\resources\app\bin\Runner\SpiderServer\public
