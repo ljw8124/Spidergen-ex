@@ -32,3 +32,6 @@ dot 이미지와 줄바꿈 하는 코드! ->
 * 스파이더젠 local webserver 프론트 소스 들어가야할 경로
 
 Spidergen경로\resources\app\bin\Runner\SpiderServer\public
+
+
+웹 에서 스크롤 모양 변경하기 위한 라이브러리 ===> scrollIndicator
