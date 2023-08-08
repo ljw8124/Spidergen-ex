@@ -35,3 +35,25 @@ Spidergen경로\resources\app\bin\Runner\SpiderServer\public
 
 
 웹 에서 스크롤 모양 변경하기 위한 라이브러리 ===> scrollIndicator
+
+
+### 쿼리 처리 비동기로 하는 방식
+// 이 때 Promise 로 받으므로 await 으로 받던지, then() 을 이용하든지 사용가능
+function sendQuery() {
+	return new Promise((resolve, reject) => {
+		queryManager.sendProcessByName('queryName', 'container', null,
+			(queryData) => {
+				// InBlock 처리
+			},
+			(queryData) => {
+				// OutBlock 으로결과 받기
+
+				// 성공시
+				if(OutBlock) {
+					resolve(OutBlock);
+				} else {
+					reject()
+				}
+			});
+	})
+}
