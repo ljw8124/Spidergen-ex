@@ -101,3 +101,7 @@ ADataMask.customMsk.appvMask = {
 	}
 }
 ```
+
+### DropBox/SelectBox image 넣기
+- DropBox 의 경우 :span 으로 찾아가서 background-image 넣어주어야함.
+- selectBox 의 경우 그냥 background-image 넣어주면됨
