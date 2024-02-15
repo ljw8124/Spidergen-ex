@@ -105,3 +105,13 @@ ADataMask.customMsk.appvMask = {
 ### DropBox/SelectBox image 넣기
 - DropBox 의 경우 :span 으로 찾아가서 background-image 넣어주어야함.
 - selectBox 의 경우 그냥 background-image 넣어주면됨
+
+### DataGrid 셀렉트 효과
+```css
+/*select 시 색상*/
+.theme_dataGrid .grid-body-table tbody td.agrid_select
+{
+	background-color: #1D6CF1;
+	color: #FFFFFF;
+}
+```
