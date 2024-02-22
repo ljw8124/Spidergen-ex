@@ -121,3 +121,11 @@ main grid 의 width 를 절대값으로 주는 경우 그 보다 넘어가면, v
 
 ### Date Picker css 적용
 현재로서는 코드로 css 를 구현하기 때문에, 하위로 찾아가서 input 에 background-image 를 넣어주어야 함
+
+### Grid 컬럼만 변경하고 싶은 경우,
+```css
+.grid_type01 td:nth-child(2n) /*2n 은 짝수 컬럼, 2n + 1 은 홀수 컬럼*/
+{
+	/*설정할 색깔*/
+}
+```
