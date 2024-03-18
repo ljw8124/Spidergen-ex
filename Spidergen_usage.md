@@ -123,7 +123,9 @@ ADataMask.customMsk.appvMask = {
 ```
 ### DateGrid 배경색
 main grid 의 width 를 절대값으로 주는 경우 그 보다 넘어가면, view 의 default 색을 보여주게 되는데, 이 때 이걸 막는 임시방법은,</br>
-전역에서 DateGrid .AView-Style 에 background-color: transparent 주는 것이다.
+전역에서 DateGrid .AView-Style 에 background-color: transparent 주는 것이다.</br>
+
+DataGrid 에서 insertRow 시 {text: ''} 식으로 넣음.. filter 의 경우에 updatePosition 자동으로 해줌
 
 ### Date Picker css 적용
 현재로서는 코드로 css 를 구현하기 때문에, 하위로 찾아가서 input 에 background-image 를 넣어주어야 함
@@ -135,3 +137,5 @@ main grid 의 width 를 절대값으로 주는 경우 그 보다 넘어가면, v
 	/*설정할 색깔*/
 }
 ```
+
+
