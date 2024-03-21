@@ -139,3 +139,21 @@ DataGrid 에서 insertRow 시 {text: ''} 식으로 넣음.. filter 의 경우에
 ```
 
 
+### CncleChart setChartType 으로 타입을 바꿈
+
+### new Date 내장 메서드
+```js
+calcDate(year, month, day, date)
+    {
+        if(!year) year = 0;
+        if(!month) month = 0;
+        if(!day) day = 0;
+
+        const oriDate = date ? new Date(`${date.year}-${date.month}-${date.day}`) : new Date();
+        oriDate.setFullYear(oriDate.getFullYear() + year);
+        oriDate.setMonth(oriDate.getMonth() + month);
+        oriDate.setDate(oriDate.getDate() + day);
+
+        return oriDate.format('yyyyMMdd');
+    }
+```
