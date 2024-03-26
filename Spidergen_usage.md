@@ -139,9 +139,9 @@ DataGrid 에서 insertRow 시 {text: ''} 식으로 넣음.. filter 의 경우에
 ```
 
 
-### CncleChart setChartType 으로 타입을 바꿈
+### CandleChart setChartType 으로 타입을 바꿈
 
-### new Date 내장 메서드
+### new Date 내장 메서드 <- 실제 존재하는 new Date 에 SpiderGen 에서 프로퍼티, 메서드 처럼 주입시킨 것
 ```js
 calcDate(year, month, day, date)
     {
