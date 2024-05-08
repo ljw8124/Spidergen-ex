@@ -168,3 +168,15 @@ calcDate(year, month, day, date)
 
 ### 서버 연결이 끊겼을 때 Window Popup 호출
 서버와 연결이 끊겨서 화면 resources 를 못가져오는 현상이 있음. -> 이 부분은 처음 시작 시 화면 html, js 를 로드한 후에, 저장하고 호출 시마다 넣는 방식으로 해결이 가능함
+
+
+### ADataMaks js 코드에서 호출하여 입히기
+```js
+	const moneyMask = ADataMask.getFunc('number', 'money');
+	
+	let moneyString = '1000000';
+
+	console.log(moneyMask(moneyString));	// output: 1,000,000
+```
+
+
