@@ -184,3 +184,9 @@ calcDate(year, month, day, date)
 ```js
 	theApp.qm.realComps[RealTR];
 ```
+
+
+### 스파이더젠 프로젝트 로그 제거 호출
+```js
+	afc.disableLog();
+```
