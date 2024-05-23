@@ -180,3 +180,7 @@ calcDate(year, month, day, date)
 ```
 
 
+### Real 등록 되어있는 컴포넌트 확인 방법
+```js
+	theApp.qm.realComps[RealTR];
+```
