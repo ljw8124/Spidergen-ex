@@ -190,3 +190,9 @@ calcDate(year, month, day, date)
 ```js
 	afc.disableLog();
 ```
+
+
+### 각 뷰에서 상위 객체 또는 데이터 접근법
+```js
+	this.aview.getOwnerData();
+```
