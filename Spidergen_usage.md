@@ -196,3 +196,14 @@ calcDate(year, month, day, date)
 ```js
 	this.aview.getOwnerData();
 ```
+
+
+### 패킷 확인 하는 법
+```js
+	// 호출 위치는 InBlock, OutBlock 받는 함수 위치에서 확인가능 ex) inBlockBuffer() or outBlockBuffer()
+	// QueryManager 객체
+	// 16 진수로 나오므로 각 패킷 분석필요
+
+	const qm = theApp.getQueryManager();
+	qm.rcvBuf.printBuffer(0, qm.getBufferSize(), 16);
+```
