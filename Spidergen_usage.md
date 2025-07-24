@@ -205,14 +205,6 @@ calcDate(year, month, day, date)
 	// 16 진수로 나오므로 각 패킷 분석필요
 
 	const qm = theApp.getQueryManager();
-	qm.sndBuf
-	qm.rcvBuf.printBuffer(0, qm.getBufferSize(), 16);	// 받은 패킷
-```js
-	// 호출 위치는 InBlock, OutBlock 받는 함수 위치에서 확인가능 ex) inBlockBuffer() or outBlockBuffer()
-	// QueryManager 객체
-	// 16 진수로 나오므로 각 패킷 분석필요
-
-	const qm = theApp.getQueryManager();
 	qm.sndBuf.printBuffer(0, qm.sndBuf.getBufferSize(), 16);	// 보낸 패킷(InBlock)
 	qm.rcvBuf.printBuffer(0, qm.rcvBuf,getBufferSize(), 16);	// 받은 패킷(OutBlock)
 ```
