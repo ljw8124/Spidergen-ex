@@ -164,6 +164,8 @@ calcDate(year, month, day, date)
 
         return oriDate.format('yyyyMMdd');
     }
+
+new Date().format('yyMMssHHmmss'); //250904132033 년/월/일/시/분/초
 ```
 
 ### 서버 연결이 끊겼을 때 Window Popup 호출
